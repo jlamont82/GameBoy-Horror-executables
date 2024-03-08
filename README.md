@@ -35,6 +35,7 @@ Download the desired executable (dmgHorror or colorHorror) and flash to a gamebo
 
 ![01fwolnm](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/3e6c2fa9-09da-4736-8013-faac8ce72303)
 
-![9oxzlkjc](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/249f67c0-a7b7-4fc5-b058-eee935cb3fbc)
+![wyst14fi](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/838f5c64-68f8-4d5c-b6de-a4b6380c0bd8)
+
 
 
