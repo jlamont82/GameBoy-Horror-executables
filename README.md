@@ -25,7 +25,7 @@ Download the desired executable (dmgHorror or colorHorror) and flash to a gamebo
 ![image](https://github.com/jlamont82/GameBoy-Horror-App/assets/57664420/e7b515e9-94f1-47a1-b6c2-09977151cc3a)
 
 #Gameboy Horror replica photos
-![IMG_3376](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/37bcfe01-3a03-47b2-8825-22c207f4a536)
+<img src="![IMG_3376](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/37bcfe01-3a03-47b2-8825-22c207f4a536)" width="100" height="100"/>
 
 ![IMG_3335](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/87f61222-5a12-4415-bbe5-978cb6bdf694)
 
