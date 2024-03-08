@@ -18,7 +18,8 @@ Download the desired executable (dmgHorror or colorHorror) and flash to a gamebo
 
 ## DMG version
 
-![z68rf23r](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/77391548-dd3d-421d-89fd-6b3c630f22bc)
+![z68rf23r](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/6766bb63-8c1a-400f-9fe7-2f510bccc387)
+
 
 ![image](https://github.com/jlamont82/GameBoy-Horror-App/assets/57664420/e2075674-69b3-4e6f-903a-2538dea8e06d)
 
