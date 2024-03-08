@@ -32,8 +32,8 @@ Download the desired executable (dmgHorror or colorHorror) and flash to a gamebo
 * blue led soldered in to imatate the "Boo detector"meboy Horror replica photos
 
 ## Gameboy Horror Images
-![IMG_3376](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/37bcfe01-3a03-47b2-8825-22c207f4a536)
+![IMG_3376](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/0d90a8b3-21d0-458f-8712-87da0c5ae2bc)
 
-![IMG_3335](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/87f61222-5a12-4415-bbe5-978cb6bdf694)
+![IMG_3335](https://github.com/jlamont82/GameBoy-Horror-executables/assets/57664420/3656e078-5d6c-4d57-a32c-a54135a901b6)
 
 
