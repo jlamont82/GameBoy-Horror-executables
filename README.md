@@ -3,7 +3,7 @@ This Repository contains the executable file for both a colour and DMG version o
 
 # How to run the files
 
-Download the desired executable (dmgHorror or colorHorror) and flash to a gameboy flash cartrage.
+Download the desired .gb file (dmgHorror or colorHorror) and flash to a gameboy flash cartrage.
 
 # App Screen Shots
 ## colour version
