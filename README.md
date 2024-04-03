@@ -27,7 +27,7 @@ Download the desired .gb file (dmgHorror or colorHorror) and flash to a gameboy 
 # Gameboy Horror Replica
 
 ## Gameboy has:
-* a custom glass lense applyed
+* a custom glass lens applyed
 * IPS display installed
 * blue led soldered in to imatate the "Boo detector"meboy Horror replica photos
 
